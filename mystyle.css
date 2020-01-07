@@ -1,5 +1,5 @@
 h1{
-    color: royalblue;
+    color: black;
     margin: auto;
     text-align: center;
 }
@@ -8,11 +8,13 @@ h1{
     margin-left: 10p;
     height: 50px;
     width: 50px;
+    border: 1px black solid;
+    border-radius: 50%;
  
 }
 .home{
     margin: auto;
-    height: 420px;
+    height: 450px;
     width: 100%;
     display:block
 }
@@ -21,3 +23,11 @@ h1{
     margin:0px auto;
     text-align: center
   }
+
+#login
+{
+    margin-left: 10p;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;   
+}
